@@ -61,7 +61,7 @@ The purpose of this project is to practice packet analysis while developing prac
 | Browser          | Google Chrome       |
 | Capture Tool     | Wireshark 4.x       |
 | Network          | Home Network        |
-| Website          | https://example.com |
+| Website          | https://pt.wikipedia.org/ |
 
 ---
 
