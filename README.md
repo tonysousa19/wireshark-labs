@@ -86,7 +86,7 @@ The objective is to capture and analyze every stage of the communication between
 
 1. Start packet capture.
 2. Open an Incognito browser window.
-3. Visit https://example.com.
+3. Visit https://pt.wikipedia.org/.
 4. Wait for the page to load.
 5. Stop the capture.
 6. Apply protocol-specific filters.
